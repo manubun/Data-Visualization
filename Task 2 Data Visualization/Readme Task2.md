@@ -22,7 +22,7 @@ A simulated **Superstore sales dataset** containing:
 ---
 
 ## Key Visualizations
-1. Total Sales and Profit by Category
+1. **Total Sales and Profit by Category**
    → Understand which product categories are performing best.
 
 2. **Monthly Sales Trend**  
@@ -36,12 +36,13 @@ A simulated **Superstore sales dataset** containing:
 
 ---
 
-## 📈 Insights
-- 📌 **Technology** leads in both **sales and profit**.
-- 🔼 Sales show a general **upward trend** over time.
-- 🗺️ **West** region is the **top-performing** in sales.
-- 📦 **Phones**, **Chairs**, and **Binders** are best-selling sub-categories.
+## Insights
+- **Technology** leads in both **sales and profit**.
+- Sales show a general **upward trend** over time.
+- **West** region is the **top-performing** in sales.
+-**Phones**, **Chairs**, and **Binders** are best-selling sub-categories.
 
 ---
+
 
 
